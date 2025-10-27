@@ -1,3 +1,5 @@
 # gdg-Git-Github
 A repo for studying github
-Demo edit
+
+Name: Rajdeep Gogoi
+Scholar ID: 25EC10150
